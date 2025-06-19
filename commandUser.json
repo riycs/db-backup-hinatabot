@@ -4,11 +4,11 @@
     "db": [
       {
         "nama": "#help",
-        "count": 338
+        "count": 352
       },
       {
         "nama": "#myprofile",
-        "count": 113
+        "count": 116
       },
       {
         "nama": "#limit",
@@ -19,7 +19,15 @@
         "count": 28
       },
       {
+        "nama": "#brat",
+        "count": 18
+      },
+      {
         "nama": "#topbalance",
+        "count": 15
+      },
+      {
+        "nama": "#tiktok",
         "count": 15
       },
       {
@@ -27,28 +35,28 @@
         "count": 14
       },
       {
+        "nama": "#dashboard",
+        "count": 13
+      },
+      {
         "nama": "#sticker",
         "count": 12
-      },
-      {
-        "nama": "#brat",
-        "count": 11
-      },
-      {
-        "nama": "#dashboard",
-        "count": 11
       },
       {
         "nama": "#balance",
         "count": 10
       },
       {
-        "nama": "#kuis",
-        "count": 9
+        "nama": "#stickermeme",
+        "count": 10
       },
       {
         "nama": "#listpremium",
-        "count": 8
+        "count": 9
+      },
+      {
+        "nama": "#kuis",
+        "count": 9
       },
       {
         "nama": "#start",
@@ -63,15 +71,19 @@
         "count": 8
       },
       {
-        "nama": "#stickermeme",
+        "nama": "#say",
         "count": 8
       },
       {
-        "nama": "#say",
-        "count": 7
+        "nama": "#stop",
+        "count": 6
       },
       {
-        "nama": "#stop",
+        "nama": "#remini",
+        "count": 6
+      },
+      {
+        "nama": "#play",
         "count": 6
       },
       {
@@ -87,8 +99,12 @@
         "count": 5
       },
       {
-        "nama": "#tiktok",
+        "nama": "#ytmp3",
         "count": 5
+      },
+      {
+        "nama": "#bratgif",
+        "count": 4
       },
       {
         "nama": "#wikipedia",
@@ -96,10 +112,6 @@
       },
       {
         "nama": "#tohijab",
-        "count": 4
-      },
-      {
-        "nama": "#remini",
         "count": 4
       },
       {
@@ -115,6 +127,10 @@
         "count": 3
       },
       {
+        "nama": "#grafiti",
+        "count": 2
+      },
+      {
         "nama": "#casino",
         "count": 2
       },
@@ -127,11 +143,19 @@
         "count": 2
       },
       {
+        "nama": "#surahlist",
+        "count": 1
+      },
+      {
         "nama": "#afk",
         "count": 1
       },
       {
-        "nama": "#bratgif",
+        "nama": "#facebook",
+        "count": 1
+      },
+      {
+        "nama": "#spotify",
         "count": 1
       }
     ]
@@ -154,15 +178,15 @@
     "db": [
       {
         "nama": "#kuis",
-        "count": 81
+        "count": 82
       },
       {
         "nama": "#help",
-        "count": 25
+        "count": 27
       },
       {
         "nama": "#brat",
-        "count": 7
+        "count": 8
       },
       {
         "nama": "#tebakgambar",
@@ -194,7 +218,19 @@
       },
       {
         "nama": "#myprofile",
-        "count": 1
+        "count": 3
+      },
+      {
+        "nama": "#anonymous",
+        "count": 2
+      },
+      {
+        "nama": "#start",
+        "count": 12
+      },
+      {
+        "nama": "#skip",
+        "count": 14
       }
     ]
   },
@@ -454,23 +490,23 @@
     "db": [
       {
         "nama": "#limit",
-        "count": 79
+        "count": 85
       },
       {
         "nama": "#transfer",
-        "count": 48
+        "count": 49
       },
       {
         "nama": "#myprofile",
-        "count": 28
+        "count": 29
       },
       {
         "nama": "#topbalance",
-        "count": 24
+        "count": 25
       },
       {
         "nama": "#kuis",
-        "count": 36
+        "count": 49
       },
       {
         "nama": "#casino",
@@ -618,7 +654,7 @@
       },
       {
         "nama": "#help",
-        "count": 7
+        "count": 8
       },
       {
         "nama": "#pinterest",
@@ -626,15 +662,15 @@
       },
       {
         "nama": "#tebakgambar",
-        "count": 16
+        "count": 23
       },
       {
         "nama": "#kuis",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#myprofile",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#limit",
@@ -802,7 +838,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 16
+        "count": 19
       },
       {
         "nama": "#brat",
@@ -814,7 +850,7 @@
       },
       {
         "nama": "#qc",
-        "count": 24
+        "count": 25
       },
       {
         "nama": "#tohijab",
@@ -846,6 +882,30 @@
       },
       {
         "nama": "#topup",
+        "count": 1
+      },
+      {
+        "nama": "#glitchtext",
+        "count": 2
+      },
+      {
+        "nama": "#writetext",
+        "count": 2
+      },
+      {
+        "nama": "#logomaker",
+        "count": 3
+      },
+      {
+        "nama": "#cartoonstyle",
+        "count": 1
+      },
+      {
+        "nama": "#blackpinkstyle",
+        "count": 1
+      },
+      {
+        "nama": "#logowolf",
         "count": 1
       }
     ]
@@ -1161,7 +1221,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 27
+        "count": 28
       },
       {
         "nama": "#myprofile",
@@ -1194,7 +1254,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 21
+        "count": 23
       },
       {
         "nama": "#pinterest",
@@ -1234,11 +1294,11 @@
       },
       {
         "nama": "#anonymous",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#start",
-        "count": 14
+        "count": 18
       },
       {
         "nama": "#stop",
@@ -1246,7 +1306,7 @@
       },
       {
         "nama": "#skip",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#sendprofile",
@@ -1478,11 +1538,11 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 7
+        "count": 14
       },
       {
         "nama": "#help",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#sticker",
@@ -1494,6 +1554,10 @@
       },
       {
         "nama": "#pinterest",
+        "count": 1
+      },
+      {
+        "nama": "#qc",
         "count": 1
       }
     ]
@@ -1545,7 +1609,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 10
+        "count": 11
       },
       {
         "nama": "#brat",
@@ -1553,7 +1617,7 @@
       },
       {
         "nama": "#sticker",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#pinterest",
@@ -2260,7 +2324,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 9
+        "count": 10
       },
       {
         "nama": "#brat",
@@ -2802,7 +2866,7 @@
     "db": [
       {
         "nama": "#kuis",
-        "count": 229
+        "count": 241
       },
       {
         "nama": "#topbalance",
@@ -2810,7 +2874,7 @@
       },
       {
         "nama": "#help",
-        "count": 56
+        "count": 68
       },
       {
         "nama": "#balance",
@@ -2818,11 +2882,11 @@
       },
       {
         "nama": "#myprofile",
-        "count": 16
+        "count": 18
       },
       {
         "nama": "#buyglimit",
-        "count": 16
+        "count": 19
       },
       {
         "nama": "#dashboard",
@@ -2854,11 +2918,11 @@
       },
       {
         "nama": "#limit",
-        "count": 19
+        "count": 24
       },
       {
         "nama": "#say",
-        "count": 1
+        "count": 6
       },
       {
         "nama": "#qc",
@@ -2874,7 +2938,7 @@
       },
       {
         "nama": "#tebakgambar",
-        "count": 32
+        "count": 42
       },
       {
         "nama": "#anonymous",
@@ -2907,6 +2971,46 @@
       {
         "nama": "#bratgif",
         "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 2
+      },
+      {
+        "nama": "#surahlist",
+        "count": 2
+      },
+      {
+        "nama": "#surah",
+        "count": 3
+      },
+      {
+        "nama": "#hidetag",
+        "count": 1
+      },
+      {
+        "nama": "#glitch",
+        "count": 2
+      },
+      {
+        "nama": "#logowolf",
+        "count": 2
+      },
+      {
+        "nama": "#grafiti",
+        "count": 2
+      },
+      {
+        "nama": "#write",
+        "count": 2
+      },
+      {
+        "nama": "#blackpink",
+        "count": 1
+      },
+      {
+        "nama": "#casino",
+        "count": 2
       }
     ]
   },
@@ -3236,7 +3340,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 8
+        "count": 10
       },
       {
         "nama": "#brat",
@@ -3276,11 +3380,11 @@
       },
       {
         "nama": "#myprofile",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#pinterest",
-        "count": 14
+        "count": 33
       },
       {
         "nama": "#tebakgambar",
@@ -3288,6 +3392,18 @@
       },
       {
         "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#qc",
+        "count": 1
+      },
+      {
+        "nama": "#blackpink",
+        "count": 2
+      },
+      {
+        "nama": "#play",
         "count": 1
       }
     ]
@@ -3408,7 +3524,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -3755,15 +3871,19 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 14
+        "count": 15
       },
       {
         "nama": "#help",
-        "count": 2
+        "count": 4
       },
       {
         "nama": "#pinterest",
         "count": 3
+      },
+      {
+        "nama": "#sticker",
+        "count": 6
       }
     ]
   },
@@ -4046,7 +4166,7 @@
       },
       {
         "nama": "#help",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#qc",
@@ -4079,6 +4199,10 @@
       {
         "nama": "#menfess",
         "count": 1
+      },
+      {
+        "nama": "#bratgif",
+        "count": 2
       }
     ]
   },
@@ -4755,7 +4879,7 @@
       },
       {
         "nama": "#help",
-        "count": 19
+        "count": 22
       },
       {
         "nama": "#wikipedia",
@@ -4783,11 +4907,11 @@
       },
       {
         "nama": "#buyglimit",
-        "count": 11
+        "count": 12
       },
       {
         "nama": "#limit",
-        "count": 26
+        "count": 29
       },
       {
         "nama": "#transfer",
@@ -4816,6 +4940,10 @@
       {
         "nama": "#sticker",
         "count": 1
+      },
+      {
+        "nama": "#cartoonstyle",
+        "count": 1
       }
     ]
   },
@@ -4824,7 +4952,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 27
+        "count": 28
       },
       {
         "nama": "#help",
@@ -4832,7 +4960,7 @@
       },
       {
         "nama": "#qc",
-        "count": 8
+        "count": 12
       },
       {
         "nama": "#sticker",
@@ -5013,7 +5141,7 @@
       },
       {
         "nama": "#myprofile",
-        "count": 15
+        "count": 16
       },
       {
         "nama": "#limit",
@@ -5053,7 +5181,7 @@
       },
       {
         "nama": "#transfer",
-        "count": 10
+        "count": 11
       },
       {
         "nama": "#listpremium",
@@ -5061,7 +5189,7 @@
       },
       {
         "nama": "#werewolf",
-        "count": 20
+        "count": 22
       },
       {
         "nama": "#buyglimit",
@@ -5087,7 +5215,7 @@
       },
       {
         "nama": "#help",
-        "count": 23
+        "count": 24
       },
       {
         "nama": "#tourl",
@@ -5099,7 +5227,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 23
+        "count": 24
       },
       {
         "nama": "#remini",
@@ -6037,15 +6165,15 @@
     "db": [
       {
         "nama": "#kuis",
-        "count": 481
+        "count": 516
       },
       {
         "nama": "#help",
-        "count": 85
+        "count": 88
       },
       {
         "nama": "#myprofile",
-        "count": 73
+        "count": 75
       },
       {
         "nama": "#pinterest",
@@ -6057,7 +6185,7 @@
       },
       {
         "nama": "#topbalance",
-        "count": 28
+        "count": 29
       },
       {
         "nama": "#buyglimit",
@@ -6121,6 +6249,30 @@
       },
       {
         "nama": "#qc",
+        "count": 1
+      },
+      {
+        "nama": "#surahlist",
+        "count": 1
+      },
+      {
+        "nama": "#surah",
+        "count": 1
+      },
+      {
+        "nama": "#glitch",
+        "count": 1
+      },
+      {
+        "nama": "#write",
+        "count": 2
+      },
+      {
+        "nama": "#grafiti",
+        "count": 2
+      },
+      {
+        "nama": "#logowolf",
         "count": 1
       }
     ]
@@ -6273,11 +6425,11 @@
     "db": [
       {
         "nama": "#kuis",
-        "count": 474
+        "count": 509
       },
       {
         "nama": "#limit",
-        "count": 165
+        "count": 171
       },
       {
         "nama": "#help",
@@ -6285,7 +6437,7 @@
       },
       {
         "nama": "#topbalance",
-        "count": 53
+        "count": 54
       },
       {
         "nama": "#myprofile",
@@ -6297,7 +6449,7 @@
       },
       {
         "nama": "#transfer",
-        "count": 43
+        "count": 45
       },
       {
         "nama": "#listpremium",
@@ -6329,6 +6481,14 @@
       },
       {
         "nama": "#hidetag",
+        "count": 1
+      },
+      {
+        "nama": "#surah",
+        "count": 1
+      },
+      {
+        "nama": "#surahlist",
         "count": 1
       }
     ]
@@ -6407,7 +6567,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 26
+        "count": 27
       },
       {
         "nama": "#brat",
@@ -6415,7 +6575,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 4
+        "count": 6
       },
       {
         "nama": "#lyrics",
@@ -7635,7 +7795,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 25
+        "count": 29
       },
       {
         "nama": "#kuis",
@@ -7647,7 +7807,7 @@
       },
       {
         "nama": "#help",
-        "count": 22
+        "count": 23
       },
       {
         "nama": "#tebakgambar",
@@ -7687,7 +7847,7 @@
       },
       {
         "nama": "#say",
-        "count": 5
+        "count": 11
       },
       {
         "nama": "#tohitam",
@@ -7695,7 +7855,7 @@
       },
       {
         "nama": "#tourl",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#limit",
@@ -7724,6 +7884,10 @@
       {
         "nama": "#tiktok",
         "count": 4
+      },
+      {
+        "nama": "#surahlist",
+        "count": 1
       }
     ]
   },
@@ -8247,7 +8411,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 11
+        "count": 13
       },
       {
         "nama": "#lyrics",
@@ -8259,7 +8423,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 5
+        "count": 7
       },
       {
         "nama": "#pinterest",
@@ -8267,6 +8431,30 @@
       },
       {
         "nama": "#menfess",
+        "count": 1
+      },
+      {
+        "nama": "#tebakgambar",
+        "count": 2
+      },
+      {
+        "nama": "#start",
+        "count": 4
+      },
+      {
+        "nama": "#sendprofile",
+        "count": 2
+      },
+      {
+        "nama": "#skip",
+        "count": 1
+      },
+      {
+        "nama": "#stop",
+        "count": 1
+      },
+      {
+        "nama": "#anonymous",
         "count": 1
       }
     ]
@@ -8383,7 +8571,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 11
+        "count": 12
       },
       {
         "nama": "#brat",
@@ -8851,11 +9039,11 @@
     "db": [
       {
         "nama": "#kuis",
-        "count": 94
+        "count": 95
       },
       {
         "nama": "#topbalance",
-        "count": 76
+        "count": 81
       },
       {
         "nama": "#limit",
@@ -8867,7 +9055,7 @@
       },
       {
         "nama": "#help",
-        "count": 38
+        "count": 39
       },
       {
         "nama": "#say",
@@ -8875,7 +9063,7 @@
       },
       {
         "nama": "#myprofile",
-        "count": 51
+        "count": 52
       },
       {
         "nama": "#dashboard",
@@ -8967,7 +9155,7 @@
       },
       {
         "nama": "#afk",
-        "count": 3
+        "count": 6
       },
       {
         "nama": "#cekpremium",
@@ -8975,7 +9163,19 @@
       },
       {
         "nama": "#werewolf",
-        "count": 55
+        "count": 68
+      },
+      {
+        "nama": "#play",
+        "count": 1
+      },
+      {
+        "nama": "#surah",
+        "count": 1
+      },
+      {
+        "nama": "#stickerwm",
+        "count": 1
       }
     ]
   },
@@ -10091,7 +10291,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 22
+        "count": 25
       },
       {
         "nama": "#lyrics",
@@ -10119,14 +10319,22 @@
       },
       {
         "nama": "#anonymous",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#start",
-        "count": 1
+        "count": 3
       },
       {
         "nama": "#stop",
+        "count": 3
+      },
+      {
+        "nama": "#ytmp3",
+        "count": 2
+      },
+      {
+        "nama": "#skip",
         "count": 1
       }
     ]
@@ -10277,7 +10485,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 55
+        "count": 58
       },
       {
         "nama": "#say",
@@ -10297,7 +10505,7 @@
       },
       {
         "nama": "#help",
-        "count": 20
+        "count": 21
       },
       {
         "nama": "#dashboard",
@@ -10350,6 +10558,10 @@
       {
         "nama": "#casino",
         "count": 9
+      },
+      {
+        "nama": "#topup",
+        "count": 1
       }
     ]
   },
@@ -10539,6 +10751,14 @@
       },
       {
         "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#bratgif",
+        "count": 1
+      },
+      {
+        "nama": "#glitchtext",
         "count": 1
       }
     ]
@@ -10873,7 +11093,7 @@
       },
       {
         "nama": "#bratgif",
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -10979,15 +11199,15 @@
       },
       {
         "nama": "#tebakgambar",
-        "count": 6
+        "count": 8
       },
       {
         "nama": "#kuis",
-        "count": 5
+        "count": 7
       },
       {
         "nama": "#help",
-        "count": 9
+        "count": 10
       },
       {
         "nama": "#sticker",
@@ -11036,6 +11256,10 @@
       {
         "nama": "#skip",
         "count": 1
+      },
+      {
+        "nama": "#bratgif",
+        "count": 2
       }
     ]
   },
@@ -11334,7 +11558,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 12
+        "count": 14
       }
     ]
   },
@@ -11933,7 +12157,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 9
+        "count": 11
       },
       {
         "nama": "#menfess",
@@ -11941,11 +12165,11 @@
       },
       {
         "nama": "#tourl",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#pinterest",
-        "count": 4
+        "count": 6
       },
       {
         "nama": "#tiktok",
@@ -11965,6 +12189,22 @@
       },
       {
         "nama": "#anonymous",
+        "count": 2
+      },
+      {
+        "nama": "#topup",
+        "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 1
+      },
+      {
+        "nama": "#say",
+        "count": 2
+      },
+      {
+        "nama": "#wikipedia",
         "count": 2
       }
     ]
@@ -12129,7 +12369,7 @@
       },
       {
         "nama": "#remini",
-        "count": 35
+        "count": 39
       },
       {
         "nama": "#qc",
@@ -12470,7 +12710,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 8
+        "count": 9
       },
       {
         "nama": "#menfess",
@@ -12478,7 +12718,7 @@
       },
       {
         "nama": "#say",
-        "count": 1
+        "count": 3
       },
       {
         "nama": "#tourl",
@@ -12503,6 +12743,14 @@
       {
         "nama": "#start",
         "count": 1
+      },
+      {
+        "nama": "#pinterest",
+        "count": 1
+      },
+      {
+        "nama": "#bratgif",
+        "count": 2
       }
     ]
   },
@@ -12686,11 +12934,11 @@
     "db": [
       {
         "nama": "#help",
-        "count": 6
+        "count": 7
       },
       {
         "nama": "#qc",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#brat",
@@ -12797,7 +13045,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 16
+        "count": 17
       },
       {
         "nama": "#kuis",
@@ -12838,6 +13086,10 @@
       {
         "nama": "#stop",
         "count": 1
+      },
+      {
+        "nama": "#blackpink",
+        "count": 2
       }
     ]
   },
@@ -13218,7 +13470,7 @@
       },
       {
         "nama": "#brat",
-        "count": 2
+        "count": 10
       },
       {
         "nama": "#kuis",
@@ -13297,7 +13549,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 31
+        "count": 33
       }
     ]
   },
@@ -14109,7 +14361,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 5
+        "count": 6
       },
       {
         "nama": "#brat",
@@ -14134,6 +14386,30 @@
       {
         "nama": "#qc",
         "count": 2
+      },
+      {
+        "nama": "#bratgif",
+        "count": 1
+      },
+      {
+        "nama": "#glitchtext",
+        "count": 1
+      },
+      {
+        "nama": "#writetext",
+        "count": 1
+      },
+      {
+        "nama": "#blackpinkstyle",
+        "count": 1
+      },
+      {
+        "nama": "#logomaker",
+        "count": 1
+      },
+      {
+        "nama": "#cartoonstyle",
+        "count": 1
       }
     ]
   },
@@ -14466,19 +14742,19 @@
       },
       {
         "nama": "#anonymous",
-        "count": 4
+        "count": 5
       },
       {
         "nama": "#start",
-        "count": 34
+        "count": 36
       },
       {
         "nama": "#skip",
-        "count": 15
+        "count": 17
       },
       {
         "nama": "#stop",
-        "count": 4
+        "count": 5
       },
       {
         "nama": "#tebakgambar",
@@ -15046,7 +15322,7 @@
       },
       {
         "nama": "#qc",
-        "count": 8
+        "count": 9
       },
       {
         "nama": "#kuis",
@@ -15221,7 +15497,7 @@
       },
       {
         "nama": "#help",
-        "count": 17
+        "count": 18
       },
       {
         "nama": "#pinterest",
@@ -15229,7 +15505,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 9
+        "count": 15
       },
       {
         "nama": "#say",
@@ -15286,6 +15562,10 @@
       {
         "nama": "#stop",
         "count": 1
+      },
+      {
+        "nama": "#bratgif",
+        "count": 3
       }
     ]
   },
@@ -15658,7 +15938,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 14
+        "count": 17
       },
       {
         "nama": "#help",
@@ -16250,7 +16530,7 @@
       },
       {
         "nama": "#help",
-        "count": 11
+        "count": 12
       },
       {
         "nama": "#brat",
@@ -16286,7 +16566,7 @@
       },
       {
         "nama": "#start",
-        "count": 24
+        "count": 26
       },
       {
         "nama": "#skip",
@@ -17338,7 +17618,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#limit",
@@ -17366,11 +17646,11 @@
       },
       {
         "nama": "#brat",
-        "count": 2
+        "count": 4
       },
       {
         "nama": "#qc",
-        "count": 1
+        "count": 3
       },
       {
         "nama": "#tourl",
@@ -17465,11 +17745,11 @@
     "db": [
       {
         "nama": "#kuis",
-        "count": 10
+        "count": 15
       },
       {
         "nama": "#help",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#topbalance",
@@ -17485,6 +17765,10 @@
       },
       {
         "nama": "#werewolf",
+        "count": 1
+      },
+      {
+        "nama": "#balance",
         "count": 1
       }
     ]
@@ -17798,15 +18082,15 @@
     "db": [
       {
         "nama": "#help",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#brat",
-        "count": 5
+        "count": 18
       },
       {
         "nama": "#sticker",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -18682,6 +18966,14 @@
       {
         "nama": "#stop",
         "count": 1
+      },
+      {
+        "nama": "#werewolf",
+        "count": 1
+      },
+      {
+        "nama": "#topbalance",
+        "count": 1
       }
     ]
   },
@@ -19164,7 +19456,7 @@
     "db": [
       {
         "nama": "#myprofile",
-        "count": 23
+        "count": 24
       },
       {
         "nama": "#pinterest",
@@ -19220,7 +19512,7 @@
       },
       {
         "nama": "#werewolf",
-        "count": 1
+        "count": 3
       }
     ]
   },
@@ -19308,39 +19600,39 @@
     "jid": "6285793322313@s.whatsapp.net",
     "db": [
       {
-        "nama": "#brat",
-        "count": 18
-      },
-      {
         "nama": "#qc",
         "count": 47
       },
       {
-        "nama": "#topup",
-        "count": 1
-      },
-      {
-        "nama": "#help",
-        "count": 1
+        "nama": "#brat",
+        "count": 20
       },
       {
         "nama": "#menfess",
-        "count": 4
+        "count": 5
       },
       {
-        "nama": "#anonymous",
-        "count": 2
+        "nama": "#say",
+        "count": 3
       },
       {
         "nama": "#start",
         "count": 3
       },
       {
-        "nama": "#stop",
+        "nama": "#anonymous",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
         "count": 1
       },
       {
-        "nama": "#sendprofile",
+        "nama": "#remini",
+        "count": 1
+      },
+      {
+        "nama": "#tourl",
         "count": 1
       },
       {
@@ -19348,15 +19640,51 @@
         "count": 1
       },
       {
-        "nama": "#say",
-        "count": 3
-      },
-      {
-        "nama": "#tourl",
+        "nama": "#sendprofile",
         "count": 1
       },
       {
-        "nama": "#remini",
+        "nama": "#stop",
+        "count": 1
+      },
+      {
+        "nama": "#help",
+        "count": 2
+      },
+      {
+        "nama": "#topup",
+        "count": 1
+      },
+      {
+        "nama": "#glitch",
+        "count": 1
+      },
+      {
+        "nama": "#write",
+        "count": 2
+      },
+      {
+        "nama": "#blackpink",
+        "count": 1
+      },
+      {
+        "nama": "#logowolf",
+        "count": 1
+      },
+      {
+        "nama": "#grafiti",
+        "count": 2
+      },
+      {
+        "nama": "#play",
+        "count": 1
+      },
+      {
+        "nama": "#cekpremium",
+        "count": 1
+      },
+      {
+        "nama": "#limit",
         "count": 1
       }
     ]
@@ -19821,7 +20149,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 9
+        "count": 10
       },
       {
         "nama": "#help",
@@ -20149,7 +20477,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 69
+        "count": 77
       },
       {
         "nama": "#help",
@@ -20647,11 +20975,11 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 63
+        "count": 65
       },
       {
         "nama": "#limit",
-        "count": 49
+        "count": 50
       },
       {
         "nama": "#say",
@@ -20675,7 +21003,7 @@
       },
       {
         "nama": "#help",
-        "count": 11
+        "count": 12
       },
       {
         "nama": "#sticker",
@@ -20723,6 +21051,10 @@
       },
       {
         "nama": "#bratgif",
+        "count": 4
+      },
+      {
+        "nama": "#surahlist",
         "count": 1
       }
     ]
@@ -21242,7 +21574,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 8
+        "count": 10
       },
       {
         "nama": "#qc",
@@ -21250,7 +21582,7 @@
       },
       {
         "nama": "#listpremium",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#say",
@@ -21274,7 +21606,7 @@
       },
       {
         "nama": "#topup",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#kuis",
@@ -21282,6 +21614,14 @@
       },
       {
         "nama": "#myprofile",
+        "count": 1
+      },
+      {
+        "nama": "#cekpremium",
+        "count": 1
+      },
+      {
+        "nama": "#stickermeme",
         "count": 1
       }
     ]
@@ -21446,7 +21786,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 51
+        "count": 54
       },
       {
         "nama": "#help",
@@ -21583,11 +21923,11 @@
     "db": [
       {
         "nama": "#help",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#tourl",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#kuis",
@@ -21599,7 +21939,15 @@
       },
       {
         "nama": "#tiktok",
-        "count": 2
+        "count": 3
+      },
+      {
+        "nama": "#qc",
+        "count": 4
+      },
+      {
+        "nama": "#stickermeme",
+        "count": 1
       }
     ]
   },
@@ -21612,7 +21960,7 @@
       },
       {
         "nama": "#brat",
-        "count": 22
+        "count": 23
       },
       {
         "nama": "#qc",
@@ -21685,7 +22033,7 @@
       },
       {
         "nama": "#sticker",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -21979,7 +22327,7 @@
       },
       {
         "nama": "#menfess",
-        "count": 10
+        "count": 12
       },
       {
         "nama": "#anonymous",
@@ -22007,7 +22355,7 @@
       },
       {
         "nama": "#limit",
-        "count": 32
+        "count": 39
       },
       {
         "nama": "#balance",
@@ -22015,7 +22363,7 @@
       },
       {
         "nama": "#buylimit",
-        "count": 7
+        "count": 8
       },
       {
         "nama": "#transfer",
@@ -22027,7 +22375,7 @@
       },
       {
         "nama": "#werewolf",
-        "count": 3
+        "count": 6
       }
     ]
   },
@@ -22158,6 +22506,10 @@
       {
         "nama": "#buyglimit",
         "count": 5
+      },
+      {
+        "nama": "#balance",
+        "count": 1
       }
     ]
   },
@@ -22235,7 +22587,7 @@
       },
       {
         "nama": "#help",
-        "count": 5
+        "count": 6
       },
       {
         "nama": "#qc",
@@ -22255,7 +22607,7 @@
       },
       {
         "nama": "#limit",
-        "count": 7
+        "count": 8
       },
       {
         "nama": "#kuis",
@@ -22334,7 +22686,7 @@
     "db": [
       {
         "nama": "#myprofile",
-        "count": 8
+        "count": 9
       },
       {
         "nama": "#tebakgambar",
@@ -22342,11 +22694,11 @@
       },
       {
         "nama": "#help",
-        "count": 7
+        "count": 8
       },
       {
         "nama": "#kuis",
-        "count": 4
+        "count": 5
       },
       {
         "nama": "#balance",
@@ -22905,7 +23257,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#menfess",
@@ -23387,7 +23739,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#remini",
@@ -23403,6 +23755,10 @@
       },
       {
         "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#instagram",
         "count": 1
       }
     ]
@@ -23433,7 +23789,7 @@
       },
       {
         "nama": "#brat",
-        "count": 11
+        "count": 13
       },
       {
         "nama": "#tebakgambar",
@@ -23542,15 +23898,15 @@
     "db": [
       {
         "nama": "#limit",
-        "count": 17
+        "count": 20
       },
       {
         "nama": "#kuis",
-        "count": 23
+        "count": 24
       },
       {
         "nama": "#transfer",
-        "count": 9
+        "count": 11
       },
       {
         "nama": "#topbalance",
@@ -23620,7 +23976,7 @@
     "db": [
       {
         "nama": "#brat",
-        "count": 8
+        "count": 11
       },
       {
         "nama": "#help",
@@ -23713,7 +24069,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 4
+        "count": 6
       },
       {
         "nama": "#pinterest",
@@ -23737,7 +24093,7 @@
       },
       {
         "nama": "#brat",
-        "count": 1
+        "count": 6
       },
       {
         "nama": "#tiktok",
@@ -23767,7 +24123,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#anonymous",
@@ -23775,15 +24131,15 @@
       },
       {
         "nama": "#start",
-        "count": 51
+        "count": 54
       },
       {
         "nama": "#stop",
-        "count": 27
+        "count": 29
       },
       {
         "nama": "#skip",
-        "count": 11
+        "count": 12
       },
       {
         "nama": "#kuis",
@@ -24215,19 +24571,19 @@
     "db": [
       {
         "nama": "#help",
-        "count": 25
+        "count": 26
       },
       {
         "nama": "#anonymous",
-        "count": 11
+        "count": 12
       },
       {
         "nama": "#start",
-        "count": 129
+        "count": 142
       },
       {
         "nama": "#stop",
-        "count": 63
+        "count": 67
       },
       {
         "nama": "#sendprofile",
@@ -24243,7 +24599,7 @@
       },
       {
         "nama": "#brat",
-        "count": 41
+        "count": 46
       },
       {
         "nama": "#myprofile",
@@ -24264,6 +24620,14 @@
       {
         "nama": "#topup",
         "count": 1
+      },
+      {
+        "nama": "#surahlist",
+        "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 9
       }
     ]
   },
@@ -24492,7 +24856,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 19
+        "count": 20
       },
       {
         "nama": "#anonymous",
@@ -24524,7 +24888,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 5
+        "count": 6
       },
       {
         "nama": "#pinterest",
@@ -24602,11 +24966,11 @@
     "db": [
       {
         "nama": "#help",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#qc",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#anonymous",
@@ -24614,6 +24978,10 @@
       },
       {
         "nama": "#start",
+        "count": 2
+      },
+      {
+        "nama": "#bratgif",
         "count": 2
       }
     ]
@@ -25165,23 +25533,23 @@
     "db": [
       {
         "nama": "#help",
-        "count": 6
+        "count": 7
       },
       {
         "nama": "#anonymous",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#start",
-        "count": 59
+        "count": 60
       },
       {
         "nama": "#skip",
-        "count": 113
+        "count": 115
       },
       {
         "nama": "#stop",
-        "count": 23
+        "count": 24
       },
       {
         "nama": "#pinterest",
@@ -25193,7 +25561,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#myprofile",
@@ -25261,7 +25629,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 5
+        "count": 6
       },
       {
         "nama": "#say",
@@ -25269,7 +25637,7 @@
       },
       {
         "nama": "#qc",
-        "count": 6
+        "count": 8
       },
       {
         "nama": "#topup",
@@ -25285,7 +25653,7 @@
       },
       {
         "nama": "#myprofile",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#buylimit",
@@ -25301,7 +25669,7 @@
       },
       {
         "nama": "#brat",
-        "count": 15
+        "count": 17
       },
       {
         "nama": "#tiktok",
@@ -25326,6 +25694,14 @@
       {
         "nama": "#sticker",
         "count": 2
+      },
+      {
+        "nama": "#glitch",
+        "count": 1
+      },
+      {
+        "nama": "#grafiti",
+        "count": 2
       }
     ]
   },
@@ -25346,7 +25722,7 @@
       },
       {
         "nama": "#menfess",
-        "count": 31
+        "count": 35
       },
       {
         "nama": "#stop",
@@ -25792,7 +26168,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 5
+        "count": 6
       },
       {
         "nama": "#myprofile",
@@ -25812,7 +26188,7 @@
       },
       {
         "nama": "#brat",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#topup",
@@ -25912,11 +26288,11 @@
     "db": [
       {
         "nama": "#help",
-        "count": 13
+        "count": 14
       },
       {
         "nama": "#brat",
-        "count": 30
+        "count": 32
       },
       {
         "nama": "#tebakgambar",
@@ -25952,6 +26328,34 @@
       },
       {
         "nama": "#menfess",
+        "count": 2
+      },
+      {
+        "nama": "#write",
+        "count": 1
+      },
+      {
+        "nama": "#blackpink",
+        "count": 1
+      },
+      {
+        "nama": "#logowolf",
+        "count": 1
+      },
+      {
+        "nama": "#glitch",
+        "count": 1
+      },
+      {
+        "nama": "#grafiti",
+        "count": 2
+      },
+      {
+        "nama": "#bratgif",
+        "count": 1
+      },
+      {
+        "nama": "#tiktok",
         "count": 2
       }
     ]
@@ -26102,7 +26506,11 @@
       },
       {
         "nama": "#pinterest",
-        "count": 10
+        "count": 11
+      },
+      {
+        "nama": "#tiktok",
+        "count": 2
       }
     ]
   },
@@ -26154,6 +26562,10 @@
       {
         "nama": "#help",
         "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 3
       }
     ]
   },
@@ -26175,7 +26587,7 @@
       },
       {
         "nama": "#help",
-        "count": 4
+        "count": 6
       },
       {
         "nama": "#anonymous",
@@ -26274,11 +26686,11 @@
       },
       {
         "nama": "#anonymous",
-        "count": 5
+        "count": 6
       },
       {
         "nama": "#start",
-        "count": 15
+        "count": 16
       },
       {
         "nama": "#skip",
@@ -26298,11 +26710,11 @@
       },
       {
         "nama": "#tiktok",
-        "count": 6
+        "count": 10
       },
       {
         "nama": "#sticker",
-        "count": 1
+        "count": 2
       },
       {
         "nama": "#qc",
@@ -26349,7 +26761,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#pinterest",
@@ -26365,7 +26777,7 @@
       },
       {
         "nama": "#remini",
-        "count": 4
+        "count": 8
       },
       {
         "nama": "#kuis",
@@ -26577,7 +26989,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 4
+        "count": 5
       },
       {
         "nama": "#topbalance",
@@ -26829,6 +27241,10 @@
       {
         "nama": "#menfess",
         "count": 7
+      },
+      {
+        "nama": "#say",
+        "count": 13
       }
     ]
   },
@@ -26841,6 +27257,10 @@
       },
       {
         "nama": "#help",
+        "count": 1
+      },
+      {
+        "nama": "#listpremium",
         "count": 1
       }
     ]
@@ -26922,7 +27342,7 @@
       },
       {
         "nama": "#brat",
-        "count": 11
+        "count": 13
       },
       {
         "nama": "#pinterest",
@@ -26939,6 +27359,10 @@
       {
         "nama": "#topup",
         "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 2
       }
     ]
   },
@@ -26979,7 +27403,7 @@
       },
       {
         "nama": "#help",
-        "count": 2
+        "count": 4
       },
       {
         "nama": "#sticker",
@@ -26996,6 +27420,18 @@
       {
         "nama": "#tebakgambar",
         "count": 4
+      },
+      {
+        "nama": "#myprofile",
+        "count": 1
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#limit",
+        "count": 1
       }
     ]
   },
@@ -27020,7 +27456,7 @@
       },
       {
         "nama": "#help",
-        "count": 2
+        "count": 3
       },
       {
         "nama": "#sendprofile",
@@ -27033,6 +27469,10 @@
       {
         "nama": "#tiktok",
         "count": 2
+      },
+      {
+        "nama": "#topup",
+        "count": 1
       }
     ]
   },
@@ -27055,6 +27495,14 @@
       {
         "nama": "#help",
         "count": 1
+      },
+      {
+        "nama": "#anonymous",
+        "count": 1
+      },
+      {
+        "nama": "#start",
+        "count": 2
       }
     ]
   },
@@ -27135,15 +27583,15 @@
     "db": [
       {
         "nama": "#limit",
-        "count": 3
+        "count": 6
       },
       {
         "nama": "#kuis",
-        "count": 20
+        "count": 24
       },
       {
         "nama": "#tebakgambar",
-        "count": 5
+        "count": 7
       },
       {
         "nama": "#afk",
@@ -27151,14 +27599,22 @@
       },
       {
         "nama": "#help",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#myprofile",
-        "count": 2
+        "count": 6
       },
       {
         "nama": "#buyglimit",
+        "count": 1
+      },
+      {
+        "nama": "#surah",
+        "count": 4
+      },
+      {
+        "nama": "#say",
         "count": 1
       }
     ]
@@ -27172,11 +27628,11 @@
       },
       {
         "nama": "#brat",
-        "count": 25
+        "count": 32
       },
       {
         "nama": "#qc",
-        "count": 6
+        "count": 8
       },
       {
         "nama": "#say",
@@ -27210,7 +27666,7 @@
       },
       {
         "nama": "#brat",
-        "count": 11
+        "count": 20
       }
     ]
   },
@@ -27232,6 +27688,222 @@
       {
         "nama": "#qc",
         "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "62881022644519@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 2
+      },
+      {
+        "nama": "#brat",
+        "count": 4
+      },
+      {
+        "nama": "#limit",
+        "count": 1
+      },
+      {
+        "nama": "#bratgif",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285825271127@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287756180899@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 2
+      },
+      {
+        "nama": "#topup",
+        "count": 1
+      },
+      {
+        "nama": "#menfess",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281912223375@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 1
+      },
+      {
+        "nama": "#play",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282295454206@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 2
+      },
+      {
+        "nama": "#myprofile",
+        "count": 1
+      },
+      {
+        "nama": "#limit",
+        "count": 2
+      },
+      {
+        "nama": "#buyglimit",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285191268698@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 2
+      },
+      {
+        "nama": "#brat",
+        "count": 4
+      },
+      {
+        "nama": "#bratgif",
+        "count": 2
+      },
+      {
+        "nama": "#surahlist",
+        "count": 1
+      },
+      {
+        "nama": "#surah",
+        "count": 1
+      },
+      {
+        "nama": "#tebakgambar",
+        "count": 1
+      },
+      {
+        "nama": "#blackpinkstyle",
+        "count": 1
+      },
+      {
+        "nama": "#cartoonstyle",
+        "count": 1
+      },
+      {
+        "nama": "#logomaker",
+        "count": 1
+      },
+      {
+        "nama": "#glitchtext",
+        "count": 1
+      },
+      {
+        "nama": "#writetext",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282348994300@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#myprofile",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289637527738@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#myprofile",
+        "count": 1
+      },
+      {
+        "nama": "#help",
+        "count": 2
+      },
+      {
+        "nama": "#tebakgambar",
+        "count": 4
+      },
+      {
+        "nama": "#kuis",
+        "count": 4
+      },
+      {
+        "nama": "#buyglimit",
+        "count": 3
+      },
+      {
+        "nama": "#limit",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285351185046@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#myprofile",
+        "count": 3
+      },
+      {
+        "nama": "#kuis",
+        "count": 13
+      },
+      {
+        "nama": "#tebakgambar",
+        "count": 1
+      },
+      {
+        "nama": "#say",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282113860838@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#myprofile",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289518766444@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#brat",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "jid": "6283139236008@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#brat",
+        "count": 3
       }
     ]
   }
