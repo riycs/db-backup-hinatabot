@@ -23,7 +23,6 @@ Semua data di sini **bisa dipulihkan** kapan saja jika terjadi error, atau reset
 | `command.json`     | List semua command aktif                    |
 | `commandUser.json` | Command history by user                     |
 | `level.json`       | XP dan level sistem                         |
-| `listCmd.json`     | Command list custom                         |
 | `premium.json`     | Status akun premium                         |
 | `user.json`        | Data user     |
 
