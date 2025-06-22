@@ -5,7 +5,7 @@
   },
   {
     "id": "6285966568261@s.whatsapp.net",
-    "balance": 130969
+    "balance": 133560
   },
   {
     "id": "6283144799475@s.whatsapp.net",
@@ -13,7 +13,7 @@
   },
   {
     "id": "6288212136016@s.whatsapp.net",
-    "balance": 90121
+    "balance": 91121
   },
   {
     "id": "6285793210222@s.whatsapp.net",
@@ -21,15 +21,15 @@
   },
   {
     "id": "6283171177502@s.whatsapp.net",
-    "balance": 86081
+    "balance": 87081
   },
   {
     "id": "6285722170614@s.whatsapp.net",
-    "balance": 79038
+    "balance": 80038
   },
   {
     "id": "6283102783723@s.whatsapp.net",
-    "balance": 62629
+    "balance": 62734
   },
   {
     "id": "628998955000@s.whatsapp.net",
@@ -49,7 +49,7 @@
   },
   {
     "id": "6285752775331@s.whatsapp.net",
-    "balance": 34641
+    "balance": 35141
   },
   {
     "id": "6282382209999@s.whatsapp.net",
@@ -241,7 +241,7 @@
   },
   {
     "id": "6281262613990@s.whatsapp.net",
-    "balance": 5082
+    "balance": 6582
   },
   {
     "id": "6285793780613@s.whatsapp.net",
@@ -257,7 +257,7 @@
   },
   {
     "id": "628561799002@s.whatsapp.net",
-    "balance": 4420
+    "balance": 4920
   },
   {
     "id": "6283181894240@s.whatsapp.net",
@@ -345,7 +345,7 @@
   },
   {
     "id": "6282295454206@s.whatsapp.net",
-    "balance": 1837
+    "balance": 2837
   },
   {
     "id": "6282220055411@s.whatsapp.net",
@@ -529,7 +529,7 @@
   },
   {
     "id": "6281297718817@s.whatsapp.net",
-    "balance": 2500
+    "balance": 3000
   },
   {
     "id": "6282261098162@s.whatsapp.net",
@@ -941,7 +941,7 @@
   },
   {
     "id": "6281220140979@s.whatsapp.net",
-    "balance": 267
+    "balance": 405
   },
   {
     "id": "6285649751736@s.whatsapp.net",
@@ -1017,7 +1017,7 @@
   },
   {
     "id": "6283871143846@s.whatsapp.net",
-    "balance": 146
+    "balance": 136
   },
   {
     "id": "6281220465875@s.whatsapp.net",
@@ -1186,5 +1186,13 @@
   {
     "id": "62881011240413@s.whatsapp.net",
     "balance": 0
+  },
+  {
+    "id": "6282148098032@s.whatsapp.net",
+    "balance": 1109
+  },
+  {
+    "id": "6285249912919@s.whatsapp.net",
+    "balance": 623
   }
 ]
