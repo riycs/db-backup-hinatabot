@@ -4,7 +4,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 398
+        "count": 399
       },
       {
         "nama": "#myprofile",
@@ -205,10 +205,6 @@
       {
         "nama": "#toimg",
         "count": 3
-      },
-      {
-        "nama": "#tomp4",
-        "count": 7
       },
       {
         "nama": "#tomp3",
@@ -3167,10 +3163,6 @@
       {
         "nama": "#tomp3",
         "count": 1
-      },
-      {
-        "nama": "#tomp4",
-        "count": 1
       }
     ]
   },
@@ -5292,7 +5284,7 @@
       },
       {
         "nama": "#help",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#tiktok",
@@ -5336,6 +5328,10 @@
       },
       {
         "nama": "#instagram",
+        "count": 2
+      },
+      {
+        "nama": "#bratgif",
         "count": 1
       }
     ]
@@ -13429,7 +13425,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 21
+        "count": 22
       },
       {
         "nama": "#kuis",
@@ -19764,7 +19760,7 @@
       },
       {
         "nama": "#tiktok",
-        "count": 26
+        "count": 27
       },
       {
         "nama": "#transfer",
@@ -21797,15 +21793,15 @@
     "db": [
       {
         "nama": "#help",
-        "count": 7
+        "count": 9
       },
       {
         "nama": "#qc",
-        "count": 6
+        "count": 7
       },
       {
         "nama": "#say",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#sticker",
@@ -21817,7 +21813,7 @@
       },
       {
         "nama": "#brat",
-        "count": 3
+        "count": 4
       },
       {
         "nama": "#myprofile",
@@ -21826,6 +21822,26 @@
       {
         "nama": "#tebakgambar",
         "count": 2
+      },
+      {
+        "nama": "#grafiti",
+        "count": 2
+      },
+      {
+        "nama": "#glitch",
+        "count": 1
+      },
+      {
+        "nama": "#write",
+        "count": 2
+      },
+      {
+        "nama": "#blackpink",
+        "count": 1
+      },
+      {
+        "nama": "#logowolf",
+        "count": 1
       }
     ]
   },
@@ -23148,7 +23164,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 4
+        "count": 5
       },
       {
         "nama": "#sticker",
@@ -23161,6 +23177,10 @@
       {
         "nama": "#ytmp4",
         "count": 2
+      },
+      {
+        "nama": "#toimg",
+        "count": 1
       }
     ]
   },
