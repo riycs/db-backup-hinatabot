@@ -1,67 +1,67 @@
 [
   {
     "nama": "#brat",
-    "count": 10567
+    "count": 10661
   },
   {
     "nama": "#kuis",
-    "count": 4287
+    "count": 4440
   },
   {
     "nama": "#help",
-    "count": 4083
+    "count": 4207
   },
   {
     "nama": "#qc",
-    "count": 1977
+    "count": 1988
   },
   {
     "nama": "#start",
-    "count": 1764
+    "count": 1820
   },
   {
     "nama": "#limit",
-    "count": 1684
+    "count": 1701
   },
   {
     "nama": "#sticker",
-    "count": 1164
+    "count": 1182
   },
   {
     "nama": "#myprofile",
-    "count": 1086
+    "count": 1124
   },
   {
     "nama": "#say",
-    "count": 868
+    "count": 875
   },
   {
     "nama": "#pinterest",
-    "count": 851
+    "count": 865
   },
   {
     "nama": "#skip",
-    "count": 824
+    "count": 860
   },
   {
     "nama": "#tebakgambar",
-    "count": 787
+    "count": 800
   },
   {
     "nama": "#tiktok",
-    "count": 695
+    "count": 754
   },
   {
     "nama": "#topbalance",
-    "count": 592
+    "count": 604
   },
   {
     "nama": "#stop",
-    "count": 544
+    "count": 559
   },
   {
     "nama": "#transfer",
-    "count": 524
+    "count": 530
   },
   {
     "nama": "#menfess",
@@ -69,23 +69,23 @@
   },
   {
     "nama": "#buyglimit",
-    "count": 319
+    "count": 320
   },
   {
     "nama": "#remini",
-    "count": 303
+    "count": 316
   },
   {
     "nama": "#stickermeme",
-    "count": 269
+    "count": 292
   },
   {
     "nama": "#anonymous",
-    "count": 264
+    "count": 273
   },
   {
     "nama": "#werewolf",
-    "count": 160
+    "count": 162
   },
   {
     "nama": "#lyrics",
@@ -97,11 +97,11 @@
   },
   {
     "nama": "#tourl",
-    "count": 121
+    "count": 122
   },
   {
     "nama": "#balance",
-    "count": 120
+    "count": 121
   },
   {
     "nama": "#dashboard",
@@ -117,15 +117,15 @@
   },
   {
     "nama": "#topup",
-    "count": 86
+    "count": 92
   },
   {
     "nama": "#bratgif",
-    "count": 80
+    "count": 95
   },
   {
     "nama": "#sendprofile",
-    "count": 74
+    "count": 75
   },
   {
     "nama": "#buylimit",
@@ -133,7 +133,7 @@
   },
   {
     "nama": "#listpremium",
-    "count": 59
+    "count": 60
   },
   {
     "nama": "#wikipedia",
@@ -141,11 +141,11 @@
   },
   {
     "nama": "#play",
-    "count": 39
+    "count": 46
   },
   {
     "nama": "#surah",
-    "count": 27
+    "count": 33
   },
   {
     "nama": "#afk",
@@ -153,15 +153,15 @@
   },
   {
     "nama": "#grafiti",
-    "count": 21
+    "count": 22
   },
   {
     "nama": "#logowolf",
-    "count": 14
+    "count": 15
   },
   {
     "nama": "#tictactoe-solo",
-    "count": 15
+    "count": 22
   },
   {
     "nama": "#hidetag",
@@ -169,7 +169,7 @@
   },
   {
     "nama": "#surahlist",
-    "count": 14
+    "count": 16
   },
   {
     "nama": "#write",
@@ -177,7 +177,7 @@
   },
   {
     "nama": "#stickerwm",
-    "count": 10
+    "count": 11
   },
   {
     "nama": "#glitch",
@@ -189,11 +189,11 @@
   },
   {
     "nama": "#statistik",
-    "count": 9
+    "count": 11
   },
   {
     "nama": "#instagram",
-    "count": 8
+    "count": 14
   },
   {
     "nama": "#ytmp3",
@@ -201,7 +201,7 @@
   },
   {
     "nama": "#suitpvp",
-    "count": 6
+    "count": 7
   },
   {
     "nama": "#glitchtext",
@@ -217,7 +217,7 @@
   },
   {
     "nama": "#cekpremium",
-    "count": 6
+    "count": 8
   },
   {
     "nama": "#writetext",
@@ -245,7 +245,7 @@
   },
   {
     "nama": "#bet",
-    "count": 5
+    "count": 30
   },
   {
     "nama": "#delcasino",
@@ -253,15 +253,15 @@
   },
   {
     "nama": "#tictactoe",
-    "count": 3
+    "count": 8
   },
   {
     "nama": "#endttc",
-    "count": 2
+    "count": 3
   },
   {
     "nama": "#script",
-    "count": 2
+    "count": 8
   },
   {
     "nama": "#spotify",
@@ -269,6 +269,18 @@
   },
   {
     "nama": "#nulis",
+    "count": 19
+  },
+  {
+    "nama": "#toimg",
+    "count": 5
+  },
+  {
+    "nama": "#tomp4",
+    "count": 8
+  },
+  {
+    "nama": "#tomp3",
     "count": 2
   }
 ]
