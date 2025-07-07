@@ -1,19 +1,19 @@
 [
   {
     "nama": "#brat",
-    "count": 11185
+    "count": 11208
   },
   {
     "nama": "#kuis",
-    "count": 5156
+    "count": 5219
   },
   {
     "nama": "#help",
-    "count": 4797
+    "count": 4829
   },
   {
     "nama": "#qc",
-    "count": 2208
+    "count": 2213
   },
   {
     "nama": "#start",
@@ -21,15 +21,15 @@
   },
   {
     "nama": "#limit",
-    "count": 1967
+    "count": 1973
   },
   {
     "nama": "#myprofile",
-    "count": 1494
+    "count": 1509
   },
   {
     "nama": "#sticker",
-    "count": 1287
+    "count": 1297
   },
   {
     "nama": "#skip",
@@ -37,7 +37,7 @@
   },
   {
     "nama": "#tiktok",
-    "count": 966
+    "count": 972
   },
   {
     "nama": "#pinterest",
@@ -45,19 +45,19 @@
   },
   {
     "nama": "#say",
-    "count": 911
+    "count": 916
   },
   {
     "nama": "#tebakgambar",
-    "count": 902
+    "count": 933
   },
   {
     "nama": "#topbalance",
-    "count": 676
+    "count": 683
   },
   {
     "nama": "#transfer",
-    "count": 605
+    "count": 606
   },
   {
     "nama": "#stop",
@@ -69,7 +69,7 @@
   },
   {
     "nama": "#remini",
-    "count": 395
+    "count": 402
   },
   {
     "nama": "#bet",
@@ -77,7 +77,7 @@
   },
   {
     "nama": "#buyglimit",
-    "count": 350
+    "count": 351
   },
   {
     "nama": "#anonymous",
@@ -89,7 +89,7 @@
   },
   {
     "nama": "#play",
-    "count": 273
+    "count": 288
   },
   {
     "nama": "#werewolf",
@@ -97,7 +97,7 @@
   },
   {
     "nama": "#bratgif",
-    "count": 156
+    "count": 163
   },
   {
     "nama": "#lyrics",
@@ -109,7 +109,7 @@
   },
   {
     "nama": "#balance",
-    "count": 138
+    "count": 141
   },
   {
     "nama": "#tourl",
@@ -129,7 +129,7 @@
   },
   {
     "nama": "#listpremium",
-    "count": 97
+    "count": 100
   },
   {
     "nama": "#tohitam",
@@ -141,11 +141,11 @@
   },
   {
     "nama": "#wikipedia",
-    "count": 70
+    "count": 71
   },
   {
     "nama": "#instagram",
-    "count": 66
+    "count": 71
   },
   {
     "nama": "#buylimit",
@@ -189,7 +189,7 @@
   },
   {
     "nama": "#suitpvp",
-    "count": 27
+    "count": 28
   },
   {
     "nama": "#write",
@@ -197,7 +197,7 @@
   },
   {
     "nama": "#ytmp3",
-    "count": 22
+    "count": 23
   },
   {
     "nama": "#toimg",
@@ -217,7 +217,7 @@
   },
   {
     "nama": "#stickerwm",
-    "count": 19
+    "count": 24
   },
   {
     "nama": "#cekpremium",
@@ -233,7 +233,7 @@
   },
   {
     "nama": "#tomp3",
-    "count": 8
+    "count": 9
   },
   {
     "nama": "#kick",
@@ -273,7 +273,7 @@
   },
   {
     "nama": "#capcut",
-    "count": 3
+    "count": 4
   },
   {
     "nama": "#delcasino",
@@ -282,5 +282,9 @@
   {
     "nama": "#spotify",
     "count": 2
+  },
+  {
+    "nama": "#ghiblistyle",
+    "count": 8
   }
 ]

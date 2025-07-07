@@ -1,9 +1,5 @@
 [
   {
-    "id": "6285966568261@s.whatsapp.net",
-    "balance": 185516
-  },
-  {
     "id": "6283144799475@s.whatsapp.net",
     "balance": 156321
   },
@@ -12,12 +8,20 @@
     "balance": 133121
   },
   {
+    "id": "6285722170614@s.whatsapp.net",
+    "balance": 110884
+  },
+  {
     "id": "6288212136016@s.whatsapp.net",
-    "balance": 107676
+    "balance": 109316
   },
   {
     "id": "6285134573794@s.whatsapp.net",
     "balance": 85724
+  },
+  {
+    "id": "6285966568261@s.whatsapp.net",
+    "balance": 83716
   },
   {
     "id": "6283102783723@s.whatsapp.net",
@@ -44,16 +48,16 @@
     "balance": 41492
   },
   {
+    "id": "6282146594968@s.whatsapp.net",
+    "balance": 32387
+  },
+  {
     "id": "6282382209999@s.whatsapp.net",
-    "balance": 30670
+    "balance": 30791
   },
   {
     "id": "6281262613990@s.whatsapp.net",
-    "balance": 28177
-  },
-  {
-    "id": "6282146594968@s.whatsapp.net",
-    "balance": 28032
+    "balance": 28959
   },
   {
     "id": "6289526239711@s.whatsapp.net",
@@ -196,6 +200,10 @@
     "balance": 12500
   },
   {
+    "id": "6282331762535@s.whatsapp.net",
+    "balance": 11079
+  },
+  {
     "id": "6285748948100@s.whatsapp.net",
     "balance": 11000
   },
@@ -210,10 +218,6 @@
   {
     "id": "62882009483825@s.whatsapp.net",
     "balance": 10228
-  },
-  {
-    "id": "6285722170614@s.whatsapp.net",
-    "balance": 10000
   },
   {
     "id": "62816690534@s.whatsapp.net",
@@ -241,6 +245,14 @@
   },
   {
     "id": "6285134203381@s.whatsapp.net",
+    "balance": 10000
+  },
+  {
+    "id": "62887437496847@s.whatsapp.net",
+    "balance": 10000
+  },
+  {
+    "id": "6281575886391@s.whatsapp.net",
     "balance": 10000
   },
   {
@@ -436,6 +448,10 @@
     "balance": 1766
   },
   {
+    "id": "6285770398632@s.whatsapp.net",
+    "balance": 1757
+  },
+  {
     "id": "6285659775257@s.whatsapp.net",
     "balance": 1738
   },
@@ -506,10 +522,6 @@
   {
     "id": "6285143659872@s.whatsapp.net",
     "balance": 1293
-  },
-  {
-    "id": "6285770398632@s.whatsapp.net",
-    "balance": 1264
   },
   {
     "id": "6281337680130@s.whatsapp.net",
@@ -1006,6 +1018,10 @@
   {
     "id": "6287838542298@s.whatsapp.net",
     "balance": 278
+  },
+  {
+    "id": "6285236724496@s.whatsapp.net",
+    "balance": 277
   },
   {
     "id": "6288902992932@s.whatsapp.net",
