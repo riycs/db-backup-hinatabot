@@ -4,7 +4,7 @@
     "db": [
       {
         "nama": "#help",
-        "count": 725
+        "count": 730
       },
       {
         "nama": "#myprofile",
@@ -24,7 +24,7 @@
       },
       {
         "nama": "#listpremium",
-        "count": 36
+        "count": 37
       },
       {
         "nama": "#topbalance",
@@ -84,7 +84,7 @@
       },
       {
         "nama": "#hidetag",
-        "count": 13
+        "count": 14
       },
       {
         "nama": "#delete",
@@ -2031,7 +2031,7 @@
       },
       {
         "nama": "#help",
-        "count": 67
+        "count": 69
       },
       {
         "nama": "#myprofile",
@@ -2051,11 +2051,11 @@
       },
       {
         "nama": "#remini",
-        "count": 11
+        "count": 15
       },
       {
         "nama": "#sticker",
-        "count": 9
+        "count": 10
       },
       {
         "nama": "#tebakgambar",
